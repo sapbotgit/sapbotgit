@@ -8,4 +8,6 @@ I write on Lua and JavaScript.
 
 In total, I made 1 pull requests on 1 projects.
 
-[![IV2FI/DrawBot - Translation to russian.](1.jpg)](https://github.com/IV2FI/DrawBot/pull/36)
+| Preview                                                                 | Repository                                   | Title                                       |
+|-------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------|
+| [![IV2FI/DrawBot](1.jpg)](https://github.com/IV2FI/DrawBot/pull/36)  | [IV2FI/DrawBot](https://github.com/IV2FI/DrawBot) | Translation to Russian                      |
