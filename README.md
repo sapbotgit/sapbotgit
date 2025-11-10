@@ -6,7 +6,7 @@ I write on Lua and JavaScript.
 
 ## My pull requests
 
-In total, I made 3 pull requests on 2 projects.
+In total, I made **4** pull requests on **3** projects.
 
 | Preview                                                                 | Repository                                   | Title                                       | Date |
 |-------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------| --------- |
