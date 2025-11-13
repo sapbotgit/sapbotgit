@@ -11,3 +11,4 @@ In total, I made **9** pull requests on **7** projects.
 | [![tldr-pages/tldr](7.jpg)](https://github.com/tldr-pages/tldr/pull/19171) | [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | doom: add page | Nov 5, 2025 |
 | [![libretro/libretro-content](8.jpg)](https://github.com/libretro/libretro-content/pull/52) | [libretro/libretro-content](https://github.com/libretro/libretro-content) | Add CRT Test Patterns into Images | Nov 9, 2025 |
 | [![coop-deluxe/sm64coopdx](9.jpg)](https://github.com/coop-deluxe/sm64coopdx/pull/928) | [coop-deluxe](https://github.com/coop-deluxe/sm64coopdx) | Corrections of spelling in Russian by native speaker | Nov 12, 2025 |
+| [![tldr-pages/tldr](9.jpg)](https://github.com/tldr-pages/tldr/pull/19285) | [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | autoexpect: add page | Nov 13, 2025 |
