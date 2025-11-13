@@ -8,7 +8,7 @@ In total, I made **10** pull requests on **7** projects.
 | [![DJSures/NABU-LIB](5.jpg)](https://github.com/DJSures/NABU-LIB/pull/10) | [DJSures/NABU-LIB](https://github.com/DJSures/NABU-LIB) | Fix a typos | Apr 27, 2025 |
 | [![hackclub/sprig](4.jpg)](https://github.com/hackclub/sprig/pull/3063) | [hackclub/sprig](https://github.com/hackclub/sprig) | Trash Out+ | Apr 29, 2025 |
 | [![hackclub/sprig](6.jpg)](https://github.com/hackclub/sprig/pull/3091) | [hackclub/sprig](https://github.com/hackclub/sprig) | Yet Another Sprig 3D Engine | Jun 3, 2025 |
+| [![coop-deluxe/sm64coopdx](9.jpg)](https://github.com/coop-deluxe/sm64coopdx/pull/928) | [coop-deluxe](https://github.com/coop-deluxe/sm64coopdx) | Corrections of spelling in Russian by native speaker | Aug 23, 2025 |
 | [![tldr-pages/tldr](7.jpg)](https://github.com/tldr-pages/tldr/pull/19171) | [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | doom: add page | Nov 5, 2025 |
 | [![libretro/libretro-content](8.jpg)](https://github.com/libretro/libretro-content/pull/52) | [libretro/libretro-content](https://github.com/libretro/libretro-content) | Add CRT Test Patterns into Images | Nov 9, 2025 |
-| [![coop-deluxe/sm64coopdx](9.jpg)](https://github.com/coop-deluxe/sm64coopdx/pull/928) | [coop-deluxe](https://github.com/coop-deluxe/sm64coopdx) | Corrections of spelling in Russian by native speaker | Nov 12, 2025 |
-| [![tldr-pages/tldr](10.jpg)](https://github.com/tldr-pages/tldr/pull/19285) | [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | autoexpect: add page | Nov 13, 2025 |
+| [![tldr-pages/tldr](10.jpg)](https://github.com/tldr-pages/tldr/pull/19285) | [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | autoexpect: add page | Nov 9, 2025 |
